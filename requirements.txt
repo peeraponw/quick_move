@@ -1,0 +1,8 @@
+backports.functools-lru-cache==1.6.4
+dataclasses==0.8
+ipykernel==6.9.1
+pip-chill==1.0.1
+seaborn==0.11.2
+sklearn==0.0
+tensorflow==2.8.0
+typed-ast==1.5.2
